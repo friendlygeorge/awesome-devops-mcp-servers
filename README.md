@@ -118,6 +118,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 - [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) 📇 ☁️ — Manage Tailscale tailnets with 52 tools for devices, ACL policies, DNS, auth keys, users, webhooks, and audit logs.
 - [nylas/cli](https://github.com/nylas/cli) 🏎️ ☁️ 🍎 🪟 🐧 - Email, calendar, contacts, webhook, timezone, and OTP command-line tool with built-in MCP server support.
+- [friendlygeorge/cron-scheduler-mcp-server](https://github.com/friendlygeorge/cron-scheduler-mcp-server) 🏎️ 🏠 🐧 🪟 - Cron job scheduling with SQLite persistence, retry logic, and structured observability. 7 tools: list/create/delete/run/status/logs/pause_resume.
 
 ### 🔄 Version Control
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
